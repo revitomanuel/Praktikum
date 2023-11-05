@@ -142,4 +142,4 @@ int main() {
     return 0;
 }
 
-//Selamat, program Anda telah selesai!
+//Ini adalah revisi dari Visual Studio Code
