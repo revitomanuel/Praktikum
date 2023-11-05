@@ -141,3 +141,5 @@ int main() {
     printf("Terima kasih telah menggunakan program kami. Sampai jumpa!");
     return 0;
 }
+
+//Selamat, program Anda telah selesai!
